@@ -5,7 +5,6 @@ import Agency from './pages/Agency'
 import Navbar from './comonents/Navigation/Navbar'
 import FullScreenNav from './comonents/Navigation/FullScreenNav'
 
-
 const App = () => {
 
   return (

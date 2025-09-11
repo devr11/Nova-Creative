@@ -63,12 +63,12 @@ const Agency = () => {
       </div>
       <div className='relative font-[font2]'>
       <div className="mt-[56vh]">
-        <h1 className='text-white text-[20vw] leading-[17vw] text-center'>SEVEN7Y <br />
+        <h1 className='text-black text-[20vw] leading-[17vw] text-center'>SEVEN7Y <br />
 TWO</h1>
       </div>
 
       <div className='pl-[40%]'>
-        <p className='z-20 text-5xl text-white leading-[3.5vw] tracking-wide'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We’re inquisitive and open-minded, and we make sure creativity crowds out ego from every corner. A brand is a living thing, with values, a personality and a story. If we ignore that, we can achieve short-term success, but not influence that goes the distance. We bring that perspective to every brand story we help tell.</p>
+        <p className='z-20 text-5xl text-black leading-[3.5vw] tracking-wide'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We’re inquisitive and open-minded, and we make sure creativity crowds out ego from every corner. A brand is a living thing, with values, a personality and a story. If we ignore that, we can achieve short-term success, but not influence that goes the distance. We bring that perspective to every brand story we help tell.</p>
       </div>
     </div>
     </div>

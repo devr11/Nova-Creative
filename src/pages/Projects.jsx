@@ -39,7 +39,6 @@ const Projects = () => {
       },
       scrollTrigger: {
         trigger: '.lol',
-        markers: true,
         start: 'top 100%',
         end: 'bottom -180%',
         scrub: true,

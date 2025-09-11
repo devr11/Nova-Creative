@@ -16,7 +16,7 @@ const FullScreenNav = () => {
             display: 'block'
         })
         tl.to('.stairing', {
-            delay: 0.2,
+            delay: 0.1,
             height: '100%',
             stagger: {
                 amount: -0.3
@@ -146,13 +146,13 @@ const FullScreenNav = () => {
                         <div className='moveLink absolute text-black flex top-0 bg-[#D3FD50]'>
                             <div className='moveX flex items-center'>
                                 <h2 className='whitespace-nowrap font-[font2] text-[8vw] uppercase leading-[.8] pt-5 text-center'>Send us a fax</h2>
-                                <img className='h-22 rounded-full w-56 shrink-0 object-cover' src="https://k72.ca/uploads/caseStudies/WIDESCAPE/WS---K72.ca---MenuThumbnail-640x290.jpg" alt="" />
+                                <svg role="presentation" alt="" aria-hidden="true"><use xlink:href="assets/heart.svg"></use></svg>
                                 <h2 className='whitespace-nowrap font-[font2] text-[8vw] uppercase leading-[.8] pt-5 text-center'>Send us a fax</h2>
                                 <img className='h-22 rounded-full w-56 shrink-0 object-cover' src="https://k72.ca/uploads/caseStudies/PJC/Thumbnails/PJC_SiteK72_Thumbnail_640x290-640x290.jpg" alt="" />
                             </div>
                             <div className='moveX flex items-center'>
                                 <h2 className='whitespace-nowrap font-[font2] text-[8vw] uppercase leading-[.8] pt-5 text-center'>Send us a fax</h2>
-                                <img className='h-22 rounded-full w-56 shrink-0 object-cover' src="https://k72.ca/uploads/caseStudies/WIDESCAPE/WS---K72.ca---MenuThumbnail-640x290.jpg" alt="" />
+                                 <svg role="presentation" alt="" aria-hidden="true"><use xlink:href="assets/heart.svg">.</use></svg>
                                 <h2 className='whitespace-nowrap font-[font2] text-[8vw] uppercase leading-[.8] pt-5 text-center'>Send us a fax</h2>
                                 <img className='h-22 rounded-full w-56 shrink-0 object-cover' src="https://k72.ca/uploads/caseStudies/PJC/Thumbnails/PJC_SiteK72_Thumbnail_640x290-640x290.jpg" alt="" />
                             </div>

@@ -1,4 +1,4 @@
-<<<<<< HEAD
+<<<<<<< HEAD
 # K72
 =======
 # React + Vite
